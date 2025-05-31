@@ -51,7 +51,7 @@ AZURE_TRANSLATE_KEY – Azure Translator API subscription key
 
 AZURE_TRANSLATE_ENDPOINT – Azure endpoint for translation API
 ---
-##💬 Usage
+## 💬 Usage
 Type your query in English, Sinhala, or Tamil.
 
 The assistant will respond in your preferred language.
